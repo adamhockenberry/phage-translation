@@ -1,3 +1,5 @@
 Data/*
+*/__pycache__/*
+dot.ps
 .DS_Store                                                                                                                                                                                                      
 .ipynb_checkpoints
