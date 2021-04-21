@@ -4,4 +4,6 @@ Results/*
 dot.ps
 .DS_Store                                                                                                                                                                                                      
 .ipynb_checkpoints
+Data.tar.gz
+
 Code/DEPRECATED
